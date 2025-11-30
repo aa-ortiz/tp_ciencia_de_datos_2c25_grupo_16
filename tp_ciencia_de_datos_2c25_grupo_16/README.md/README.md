@@ -7,8 +7,9 @@ El trabajo sigue estrictamente la estructura, metodología y requisitos solicita
 
 ---
 
-# 📁 Estructura del proyecto
+## 🗂️ Estructura del proyecto
 
+```txt
 proyecto/
 ├── data/
 │   ├── raw/          # Datos crudos originales (EPH)
@@ -19,9 +20,7 @@ proyecto/
 │   └── figures/      # Gráficos para el informe
 ├── scripts/          # Scripts del proyecto
 └── README.md         # Este archivo
-
-
----
+```
 
 # 📜 Scripts incluidos
 
