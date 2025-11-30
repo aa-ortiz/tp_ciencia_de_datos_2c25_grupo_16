@@ -1,0 +1,26 @@
+              (Intercept)           educ_grupoMedia            educ_grupoAlta 
+               10.1047961                 0.3504378                 0.1536648 
+                sexoMujer                      edad               AGLOMERADO3 
+                2.3808226                 0.9479807                 0.6998371 
+              AGLOMERADO4               AGLOMERADO5               AGLOMERADO6 
+                0.7123147                 0.7792010                 0.7061732 
+              AGLOMERADO7               AGLOMERADO8               AGLOMERADO9 
+                1.2794340                 1.1619307                 0.3445048 
+             AGLOMERADO10              AGLOMERADO12              AGLOMERADO13 
+                1.0841925                 1.3651129                 1.1562469 
+             AGLOMERADO14              AGLOMERADO15              AGLOMERADO17 
+                1.3708508                 1.0954991                 0.3165718 
+             AGLOMERADO18              AGLOMERADO19              AGLOMERADO20 
+                1.2705493                 1.0320259                 0.3082854 
+             AGLOMERADO22              AGLOMERADO23              AGLOMERADO25 
+                1.1121809                 1.5893644                 0.9786818 
+             AGLOMERADO26              AGLOMERADO27              AGLOMERADO29 
+                1.2994018                 1.3847786                 1.4172888 
+             AGLOMERADO30              AGLOMERADO31              AGLOMERADO32 
+                0.5026604                 0.2270634                 0.6344711 
+             AGLOMERADO33              AGLOMERADO34              AGLOMERADO36 
+                0.8780574                 0.6506355                 1.0374227 
+             AGLOMERADO38              AGLOMERADO91              AGLOMERADO93 
+                0.9090192                 0.5179443                 0.5699028 
+educ_grupoMedia:sexoMujer  educ_grupoAlta:sexoMujer 
+                0.7575960                 0.4050816 
