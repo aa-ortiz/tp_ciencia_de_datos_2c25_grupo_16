@@ -1,0 +1,56 @@
+
+Call:
+glm(formula = informal ~ educ_grupo * sexo + edad + AGLOMERADO, 
+    family = binomial(link = "logit"), data = base_modelo)
+
+Coefficients:
+                           Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                2.313010   0.137438  16.829  < 2e-16 ***
+educ_grupoMedia           -1.048572   0.057513 -18.232  < 2e-16 ***
+educ_grupoAlta            -1.872982   0.086451 -21.665  < 2e-16 ***
+sexoMujer                  0.867446   0.074837  11.591  < 2e-16 ***
+edad                      -0.053421   0.001777 -30.055  < 2e-16 ***
+AGLOMERADO3               -0.356908   0.171770  -2.078 0.037726 *  
+AGLOMERADO4               -0.339235   0.148678  -2.282 0.022508 *  
+AGLOMERADO5               -0.249486   0.160806  -1.551 0.120788    
+AGLOMERADO6               -0.347895   0.164423  -2.116 0.034358 *  
+AGLOMERADO7                0.246418   0.164879   1.495 0.135036    
+AGLOMERADO8                0.150083   0.163892   0.916 0.359801    
+AGLOMERADO9               -1.065647   0.199786  -5.334 9.61e-08 ***
+AGLOMERADO10               0.080835   0.144780   0.558 0.576617    
+AGLOMERADO12               0.311237   0.168314   1.849 0.064436 .  
+AGLOMERADO13               0.145179   0.140709   1.032 0.302180    
+AGLOMERADO14               0.315432   0.157666   2.001 0.045433 *  
+AGLOMERADO15               0.091210   0.162732   0.560 0.575144    
+AGLOMERADO17              -1.150205   0.171952  -6.689 2.25e-11 ***
+AGLOMERADO18               0.239449   0.156487   1.530 0.125978    
+AGLOMERADO19               0.031524   0.151817   0.208 0.835507    
+AGLOMERADO20              -1.176729   0.198996  -5.913 3.35e-09 ***
+AGLOMERADO22               0.106323   0.147967   0.719 0.472413    
+AGLOMERADO23               0.463334   0.143629   3.226 0.001256 ** 
+AGLOMERADO25              -0.021549   0.150803  -0.143 0.886375    
+AGLOMERADO26               0.261904   0.153008   1.712 0.086952 .  
+AGLOMERADO27               0.325540   0.151644   2.147 0.031814 *  
+AGLOMERADO29               0.348746   0.139516   2.500 0.012431 *  
+AGLOMERADO30              -0.687841   0.180784  -3.805 0.000142 ***
+AGLOMERADO31              -1.482526   0.187576  -7.904 2.71e-15 ***
+AGLOMERADO32              -0.454964   0.153318  -2.967 0.003003 ** 
+AGLOMERADO33              -0.130043   0.120926  -1.075 0.282197    
+AGLOMERADO34              -0.429806   0.181125  -2.373 0.017645 *  
+AGLOMERADO36               0.036740   0.164606   0.223 0.823383    
+AGLOMERADO38              -0.095389   0.158941  -0.600 0.548403    
+AGLOMERADO91              -0.657888   0.177904  -3.698 0.000217 ***
+AGLOMERADO93              -0.562289   0.182949  -3.073 0.002116 ** 
+educ_grupoMedia:sexoMujer -0.277605   0.090975  -3.051 0.002277 ** 
+educ_grupoAlta:sexoMujer  -0.903667   0.122142  -7.399 1.38e-13 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 19574  on 14916  degrees of freedom
+Residual deviance: 16200  on 14879  degrees of freedom
+AIC: 16276
+
+Number of Fisher Scoring iterations: 4
+

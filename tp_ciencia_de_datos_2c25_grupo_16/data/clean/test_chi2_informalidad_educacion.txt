@@ -1,0 +1,6 @@
+
+	Pearson's Chi-squared test
+
+data:  tabla_inf_edu
+X-squared = 1582.8, df = 2, p-value < 2.2e-16
+
