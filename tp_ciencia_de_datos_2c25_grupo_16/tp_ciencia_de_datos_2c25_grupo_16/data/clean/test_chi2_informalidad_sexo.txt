@@ -1,6 +1,0 @@
-
-	Pearson's Chi-squared test with Yates' continuity correction
-
-data:  tabla_inf_sexo
-X-squared = 14.681, df = 1, p-value = 0.0001273
-
