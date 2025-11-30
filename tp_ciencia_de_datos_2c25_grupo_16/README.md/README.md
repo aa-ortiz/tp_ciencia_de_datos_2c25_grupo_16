@@ -71,7 +71,7 @@ Gráfico editorializado:
 # 🧪 Hipótesis del estudio
 
 **Hipótesis principal (falsable):**  
-> *“Un mayor nivel educativo reduce la probabilidad de trabajar en la informalidad, y esta reducción es diferente entre varones y mujeres.”*
+> *“A mayor nivel educativo, menor es la probabilidad de trabajar en la economía informal entre trabajadores urbanos de 18–64 años; este efecto es más fuerte para mujeres que para hombres.”*
 
 Variables relevantes:
 - Nivel educativo  
